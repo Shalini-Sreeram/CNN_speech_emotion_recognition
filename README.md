@@ -71,6 +71,8 @@ The model achieves **81% accuracy** and is designed for integration into **chatb
 
 - Confusion matrix and classification report included
 
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/167c4894-8780-4197-81f4-485fac9258b9" />
+
 ---
 ## 🔮 Future Work
 - Extend to RNN/LSTM architectures
