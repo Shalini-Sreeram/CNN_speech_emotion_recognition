@@ -3,7 +3,7 @@
 ## 📖 Overview
 This project implements a **Convolutional Neural Network (CNN)** to classify emotions from speech audio files (`.wav` or `.mp3`, up to 200 MB). It analyzes the input and predicts one of **7 distinct emotions**:
 - Disgust  
-- Anger  
+- Anger 
 - Fear  
 - Joy  
 - Sadness  
