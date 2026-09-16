@@ -10,7 +10,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify emo
 - Neutral  
 - Surprise  
 
-The model achieves **81% accuracy** and is designed for integration into **chatbots and voice assistants**.
+The model achieves **~81% accuracy** and is designed for integration into **chatbots and voice assistants**.
 
 ---
 
